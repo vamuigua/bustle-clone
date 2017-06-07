@@ -2,5 +2,13 @@
 
 We hope you find exactly what you're looking for.
 
+<ul>
+  {{#each model as |content|}}
+      <p>{{content.headlines}}</p>
+      <p><img src={{content.image}}></p>
+      <p>{{content.author}}</p>
+  {{/each}}
+</ul>
+
 {{#link-to 'about'}}About{{/link-to}}
 {{#link-to 'contact'}}Click here to contact us.{{/link-to}}
