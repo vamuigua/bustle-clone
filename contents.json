@@ -1,14 +1,17 @@
 { "contents": [{
     "headlines": "Uhuru Lauches Delivery.go.ke",
     "author": "Victor Allen",
-    "image": "http://www.kenyadigest.com/wp-content/uploads/2015/07/index5.jpg"
+    "image": "http://www.kenyadigest.com/wp-content/uploads/2015/07/index5.jpg",
+    "shortDescription":"We have kept our promise, President Kenyatta says as he seeks Gusii votes NYAMIRA, 7 JUNE 2017, (PSCU) — President Uhuru Kenyatta today said the Jubilee Administration has kept its promise to deliver infrastructure and invest in projects that continue to change Kenya for the better."
   }, {
     "headlines": "Real Madrid Wins",
     "author": "CR7",
-    "image": "http://stella9ja.com/wp-content/uploads/2016/05/CjkyBKzXAAEDr5m.jpgsmall.jpg"
+    "image": "http://stella9ja.com/wp-content/uploads/2016/05/CjkyBKzXAAEDr5m.jpgsmall.jpg",
+    "shortDescription":"It ended, as it so often does, with that familiar smile. Cristiano Ronaldo – gelled hair, dazzling teeth, magic in his boots – will never forget the night he scored the 600th goal of an almost implausible career."
   }, {
     "headlines": "Latest Start Ups",
     "author": "Tony",
-    "image": "http://www.transfirst.com/images/uploads/business-incubators-the-secret-weapon-for-startups-and-small-businesses.jpg"
+    "image": "http://www.transfirst.com/images/uploads/business-incubators-the-secret-weapon-for-startups-and-small-businesses.jpg",
+    "shortDescription":"Food startups are sensing an opening in the public market, and a German startup may be able to avoid the pitfalls of the industry."
   }]
 }
